@@ -23,7 +23,7 @@ Este é um projeto simples de Gerador de Paletas de Cores utilizando apenas HTML
 
 1. Clone este repositório.
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/KevynYansen/gerador-de-paletas.git
 
    Exemplo de Uso
 Clique no botão "Gerar Paleta" para criar uma nova paleta de cores.
