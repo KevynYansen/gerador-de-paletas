@@ -36,10 +36,13 @@ Crie um branch para sua feature (git checkout -b feature/AmazingFeature).
 Commit suas mudanças (git commit -m 'Add some AmazingFeature').
 Faça o push para o branch (git push origin feature/AmazingFeature).
 Abra um Pull Request.
+
 Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto é licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 Contato
-Kevyn Yansen 
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
-Link do Projeto: https://github.com/seu-usuario/seu-repositorio
+Nome: Kevyn Yansen
+E-mail: kevynyansen9@gmail.com
+GitHub: KevynYansen
